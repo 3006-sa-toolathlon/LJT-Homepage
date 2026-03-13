@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Hong Kong University of Science and Technology (HKUST), 2024-Present
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology (HKUST) — PhD supervisor: Professor Junxian He, 2024-Present
 * B.Eng., Shanghai Jiao Tong University (SJTU), 2020-2024 — graduated in June 2024
 * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
