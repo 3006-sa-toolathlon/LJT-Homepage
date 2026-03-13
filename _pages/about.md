@@ -14,7 +14,7 @@ Junteng Liu is a first-year PhD candidate at HKUST NLP Group. Research focuses o
 
 ## Academic Background
 
-- Ph.D. in Computer Science (2024-Present), Hong Kong University of Science and Technology (HKUST)
+- Ph.D. in Computer Science (2024-Present), Hong Kong University of Science and Technology (HKUST) — PhD supervisor: Professor Junxian He
 - B.Eng. (2020-2024), Shanghai Jiao Tong University (SJTU) — graduated in June 2024
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
